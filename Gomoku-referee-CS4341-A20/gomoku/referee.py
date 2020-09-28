@@ -1,5 +1,5 @@
 #!env python
-
+#Jenna Galli, Katie Deyette, Katie Lin
 import logging
 import sys
 import os
